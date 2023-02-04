@@ -4,4 +4,4 @@ I live in Poland.
 
 My favorite programming language is Python but I'm also learning HTML and CSS.
 
-I'm currently working on a voice assistant, which I named Grace.
+I'm currently working on a Python game.
